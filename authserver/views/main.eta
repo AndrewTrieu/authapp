@@ -1,0 +1,9 @@
+<% layout("./layouts/layout.eta") %>
+
+<h1>Online Forum</h1>
+
+<p>This is an online forum that allows the participants to join, post questions, answer the posts etc.</p>
+
+<p>Are you already registered? <a href="/auth/login">Login</a></p>
+
+<p>Not registered yet? <a href="/auth/register">Register</a></p>
