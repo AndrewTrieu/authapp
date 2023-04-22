@@ -4,8 +4,6 @@ export {
   Router,
   send,
 } from "https://deno.land/x/oak@v11.1.0/mod.ts";
-import { readFileSync } from "https://deno.land/std@0.152.0/node/fs.ts";
-export { readFileSync };
 import postgres from "https://deno.land/x/postgresjs@v3.3.3/mod.js";
 export { postgres };
 export { Session } from "https://deno.land/x/oak_sessions@v4.0.5/mod.ts";

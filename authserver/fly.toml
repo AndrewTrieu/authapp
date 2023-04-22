@@ -1,10 +1,15 @@
-# fly.toml file generated for authapp on 2023-04-20T11:14:23+03:00
+# fly.toml app configuration file generated for authapp on 2023-04-22T19:12:59+03:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
 
 app = "authapp"
 kill_signal = "SIGINT"
 kill_timeout = 5
 primary_region = "arn"
 processes = []
+
+[build]
 
 [env]
 
