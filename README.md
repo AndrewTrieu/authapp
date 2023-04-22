@@ -1,6 +1,6 @@
 # Authentication Service for Online Forum
 
-This is a simple authentication service for an online forum. Online deployment is done using Fly.io and is work in progress.
+This is a simple authentication service for an online forum. Online deployment is done using Fly.io at <https://authapp.fly.dev/>.
 
 ## Features
 
@@ -11,11 +11,11 @@ This is a simple authentication service for an online forum. Online deployment i
 - [x] Password policy
 - [x] Password encryption
 - [x] Graphical user interface
-- [ ] Client-server encrypted communication: Not implemented for local development
+- [X] Client-server encrypted communication: Implemented for online deployment, but not for local deployment.
 
 ## Local Development
 
-Local deployment is done using Docker Compose. To start the service, run:
+Local deployment is done using Docker. To start the service, run:
 
 ```bash
 docker-compose up
