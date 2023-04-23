@@ -13,6 +13,10 @@ This is a simple authentication service for an online forum. Online deployment i
 - [x] Graphical user interface
 - [X] Client-server encrypted communication: Implemented for online deployment, but not for local deployment.
 
+## Video
+
+[Auth.webm](https://user-images.githubusercontent.com/68151686/233848511-114907ba-f69a-44d7-93a6-66daf44b99fd.webm)
+
 ## Local Development
 
 Local deployment is done using Docker. To start the service, run:
