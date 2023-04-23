@@ -19,7 +19,7 @@ This is a simple authentication service for an online forum. Online deployment i
 
 ## Local Development
 
-Local deployment is done using Docker. To start the service, run:
+Local deployment is done using Docker. To start the service, run the following command in the root directory:
 
 ```bash
 docker-compose up
