@@ -1,6 +1,6 @@
 # Authentication Service for Online Forum
 
-This is a simple authentication service for an online forum. Online deployment is done using Fly.io at <https://authapp.fly.dev/>.
+This is a simple authentication service for an online forum. Online deployment is done using Fly.io at ~~<https://authapp.fly.dev/>~~ (DELETED).
 
 ## Features
 
